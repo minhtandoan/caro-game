@@ -1,6 +1,6 @@
 {
-  "homepage": "http://minhtandoan.github.io/tic-tac-toe",
-  "name": "btcn01",
+  "homepage": "http://minhtandoan.github.io/caro-game",
+  "name": "btcn02",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
